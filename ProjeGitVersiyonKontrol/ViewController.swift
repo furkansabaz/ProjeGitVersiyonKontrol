@@ -15,6 +15,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        print("Masterdan Selamlar")
     }
 
     @IBAction func btnTikla(_ sender: Any) {
