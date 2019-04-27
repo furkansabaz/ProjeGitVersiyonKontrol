@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("Masterdan Selamlar")
+        print("Değişiklik Masterdan")
     }
 
     @IBAction func btnTikla(_ sender: Any) {
