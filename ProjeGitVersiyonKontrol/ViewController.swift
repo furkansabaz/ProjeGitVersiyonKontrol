@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("Masterdan Selamlar")
         print("Değişiklik Masterdan")
+        print("Değişiklik Github tarafında yapıldı")
     }
 
     @IBAction func btnTikla(_ sender: Any) {
